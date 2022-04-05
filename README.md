@@ -54,6 +54,7 @@ let lastName = "Williams";
 - What is the value of: a == str?
 - What is the value of: a === str?
 - What is the value of: !isPresent?
+
 - What is the value of: (“eleven” == str2 && a >= str)?
 - What is the value of: (!isPresent || isPresent)?
 - What is the value of: 0 == false?
